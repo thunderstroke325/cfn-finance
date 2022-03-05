@@ -144,7 +144,7 @@ const Nav = () => {
 							<a target="_blank" href="https://www.devilfinance.io" className={classes.link}>
 								Vaults
 							</a> */}
-              <a target="_blank" rel="noopener noreferrer" href="https://cfn-finance.gitbook.io/untitled/" className={classes.link}>
+              <a target="_blank" rel="noopener noreferrer" href="https://caffeinefund.gitbook.io/caffeinefund-finance/" className={classes.link}>
                 Docs
               </a>
               {/* <a target="_blank" rel="noopener noreferrer" href="https://3omb.finance/" className={classes.link}>
@@ -202,7 +202,7 @@ const Nav = () => {
                 <ListItem button component="a" href="https://snapshot.org/#/forgiving.forg.eth">
                   <ListItemText>GOVERNANCE</ListItemText>
                 </ListItem> */}
-                <ListItem button component="a" href="https://cfn-finance.gitbook.io/untitled/">
+                <ListItem button component="a" href="https://caffeinefund.gitbook.io/caffeinefund-finance/">
                   <ListItemText>DOCS</ListItemText>
                 </ListItem>
                 {/* <ListItem button component="a" href="https://3omb.finance/">
