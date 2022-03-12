@@ -143,11 +143,11 @@ const Nav = () => {
 							</a>
 							<a target="_blank" href="https://www.devilfinance.io" className={classes.link}>
 								Vaults
-							</a> */}
+							</a>
               <a target="_blank" rel="noopener noreferrer" href="https://caffeinefund.gitbook.io/caffeinefund-finance/" className={classes.link}>
                 Docs
               </a>
-              {/* <a target="_blank" rel="noopener noreferrer" href="https://3omb.finance/" className={classes.link}>
+              <a target="_blank" rel="noopener noreferrer" href="https://3omb.finance/" className={classes.link}>
                 3omb
               </a> */}
             </Box>
@@ -201,11 +201,11 @@ const Nav = () => {
                 </ListItem>
                 <ListItem button component="a" href="https://snapshot.org/#/forgiving.forg.eth">
                   <ListItemText>GOVERNANCE</ListItemText>
-                </ListItem> */}
+                </ListItem>
                 <ListItem button component="a" href="https://caffeinefund.gitbook.io/caffeinefund-finance/">
                   <ListItemText>DOCS</ListItemText>
                 </ListItem>
-                {/* <ListItem button component="a" href="https://3omb.finance/">
+                <ListItem button component="a" href="https://3omb.finance/">
                   <ListItemText>3OMB</ListItemText>
                 </ListItem> */}
                 <ListItem style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
